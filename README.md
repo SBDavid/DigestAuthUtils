@@ -1,0 +1,2 @@
+# DigestAuthUtils
+为web服务提供Digest认证的工具类
